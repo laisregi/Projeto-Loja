@@ -1,2 +1,2 @@
 # Projeto-Loja
-Loja de cubos
+Loja de cubos com html e css
